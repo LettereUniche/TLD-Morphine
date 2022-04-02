@@ -7,7 +7,6 @@ A small test mod that adds Morphine to The Long Dark.
 * Improved rest effect for 8 hours
 * Blurred vision
 * Stumbling
-* Decoration (If you're into that)
 
 ## Where to find Morphine?
 Currently, `Morphine Vials` and `Syringes` can be found in the Blackrock infirmary. A total of 7 vials, 3 syringes, and 3 empty syringes will spawn. 
