@@ -1,4 +1,4 @@
-# TLD-Morphine
+# TLD_Morphine
 
 A small test mod that adds Morphine to The Long Dark.
 ![20220402021046_1](https://user-images.githubusercontent.com/102776369/161359073-25bd7862-7567-4229-848c-7004e55fbeb4.jpg)
