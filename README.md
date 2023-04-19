@@ -3,8 +3,8 @@
 ![20220402021046_1](https://user-images.githubusercontent.com/102776369/161359073-25bd7862-7567-4229-848c-7004e55fbeb4.jpg)
 
 # Update v1.1
--Updated for latest TLD version by Thekillergreece.
--Morphine vials can be crafted.
+- Updated for latest TLD version by Thekillergreece.
+- Morphine vials can be crafted.
 
 ## The effects of Morphine
 * Improved rest effect for 8 hours
