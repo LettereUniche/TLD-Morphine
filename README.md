@@ -1,7 +1,10 @@
 # TLD_Morphine
 
-A small test mod that adds Morphine to The Long Dark.
 ![20220402021046_1](https://user-images.githubusercontent.com/102776369/161359073-25bd7862-7567-4229-848c-7004e55fbeb4.jpg)
+
+# Update v1.1
+-Updated for latest TLD version by Thekillergreece.
+-Morphine vials can be crafted.
 
 ## The effects of Morphine
 * Improved rest effect for 8 hours
@@ -23,12 +26,12 @@ Alternatively, the items can be added using the [DeveloperConsole](https://githu
 ## Installation
 * Download and install [MelonLoader.Installer.exe](https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe)
 * Install [ModComponent](https://github.com/ds5678/ModComponent) and its dependencies
-* Install [AlcoholMod](https://github.com/ds5678/AlcoholMod)
+* ~~Install [AlcoholMod](https://github.com/ds5678/AlcoholMod)~~
 * Move `TLD_Morphine.modcomponent` to your /Mods folder
 
 ## Required Mods
 * [ModComponent](https://github.com/ds5678/ModComponent)
-* [AlcoholMod](https://github.com/ds5678/AlcoholMod)
+* ~~[AlcoholMod](https://github.com/ds5678/AlcoholMod)~~
 
 ## Reccomended Mods
 * [Placing Anywhere](https://github.com/Xpazeman/tld-placing-anywhere)
