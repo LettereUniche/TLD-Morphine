@@ -5,6 +5,7 @@
 # Update v1.1
 - Updated for latest TLD version by Thekillergreece.
 - Morphine vials can be crafted.
+- Rebalanced effects duration.
 
 ## The effects of Morphine
 * Improved rest effect for 8 hours
