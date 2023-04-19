@@ -1,0 +1,17 @@
+{
+    "Name": "TorphineVial",
+    "RequiredGear": [{"Item":"GEAR_SyringeEmpty","Count":3},{"Item":"GEAR_BottleAntibiotics","Count":32},{"Item":"GEAR_BottleHydrogenPeroxide","Count":5}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_TorphineVial",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 45,
+    "CraftingAudio": "",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}

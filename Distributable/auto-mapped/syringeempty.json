@@ -1,0 +1,30 @@
+{
+  "ModGenericComponent": {
+    "DisplayNameLocalizationId": "GAMEPLAY_SyringeEmpty",
+    "DescriptionLocalizatonId": "GAMEPLAY_SyringeEmptyDescription",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 0.1,
+    "DaysToDecay": 0,
+    "MaxHP": 100,
+    "InitialCondition": "Perfect",
+    "InventoryCategory": "FirstAid",
+    "PickUpAudio": "Play_SndInvGenericTiny",
+    "PutBackAudio": "Play_SndInvGenericTiny",
+    "StowAudio": "Play_InventoryStow",
+    "WornOutAudio": "",
+    "InspectOnPickup": true,
+    "InspectDistance": 0.4,
+    "InspectAngles": [ -70, 0, 0 ],
+    "InspectOffset": [ 0, -0.1, 0 ],
+    "InspectScale": [ 1, 1, 1 ],
+    "NormalModel": "",
+    "InspectModel": ""
+  },
+    "ModStackableBehaviour": {
+    "SingleUnitTextId": "GAMEPLAY_SyringeEmpty",
+    "MultipleUnitTextId": "GAMEPLAY_SyringeEmpty",
+    "StackSprite": "",
+    "UnitsPerItem": 1,
+    "ChanceFull": 100
+  }
+}

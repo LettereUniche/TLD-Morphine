@@ -1,0 +1,10 @@
+#-------------------------
+loottable=CargoMedicalRare
+#-------------------------
+item=TorphineVial w=5
+item=SyringeFull w=2
+
+#-------------------------
+loottable=CargoMedical
+#-------------------------
+item=SyringeEmpty w=3

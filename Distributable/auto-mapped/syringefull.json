@@ -1,0 +1,75 @@
+{
+  "ModFoodComponent": {
+    "DisplayNameLocalizationId": "GAMEPLAY_SyringeFull",
+    "DescriptionLocalizatonId": "GAMEPLAY_SyringeFullDescription",
+    "InventoryActionLocalizationId": "GAMEPLAY_SyringeFullAction",
+    "WeightKG": 0.15,
+    "DaysToDecay": 0,
+    "MaxHP": 100,
+    "InitialCondition": "Perfect",
+    "InventoryCategory": "FirstAid",
+    "PickUpAudio": "Play_SndInvGenericTiny",
+    "PutBackAudio": "Play_SndInvGenericTiny",
+    "StowAudio": "Play_InventoryStow",
+    "WornOutAudio": "",
+    "InspectOnPickup": true,
+    "InspectDistance": 0.4,
+    "InspectAngles": [ -70, 0, 0 ],
+    "InspectOffset": [ 0, -0.1, 0 ],
+    "InspectScale": [ 1, 1, 1 ],
+    "NormalModel": "",
+    "InspectModel": "",
+
+    "Cooking": false,
+    "CookingMinutes": 8,
+    "CookingUnitsRequired": 1,
+    "CookingWaterRequired": 0,
+    "CookingResult": "",
+    "BurntMinutes": 30,
+    "Type": "Liquid",
+    "CookingAudio": "",
+    "StartCookingAudio": "",
+
+    "DaysToDecayOutdoors": 0,
+    "DaysToDecayIndoors": 0,
+    "Calories": 1,
+    "Servings": 1,
+    "EatingTime": 4,
+    "EatingAudio": "Play_FirstAidInsulin",
+    "EatingPackagedAudio": "",
+    "ThirstEffect": -75,
+
+    "FoodPoisoning": 0,
+    "FoodPoisoningLowCondition": 0,
+    "ParasiteRiskIncrements": [],
+
+    "Natural": false,
+    "Raw": false,
+    "Drink": false,
+    "Meat": false,
+    "Fish": false,
+    "Canned": false,
+
+    "Opening": false,
+    "OpeningWithCanOpener": false,
+    "OpeningWithKnife": false,
+    "OpeningWithHatchet": false,
+    "OpeningWithSmashing": false,
+
+    "AffectCondition": true,
+    "ConditionRestBonus": 20,
+    "ConditionRestMinutes": 360,
+
+    "AffectRest": true,
+    "InstantRestChange": 10,
+    "RestFactorMinutes": 60,
+
+    "AffectCold": false,
+    "InstantColdChange": 5,
+    "ColdFactorMinutes": 15,
+
+    "ContainsAlcohol": true,
+    "AlcoholPercentage": 60,
+    "AlcoholUptakeMinutes": 1
+  }
+}

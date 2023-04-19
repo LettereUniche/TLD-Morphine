@@ -1,0 +1,37 @@
+{
+  "GAMEPLAY_SyringeEmpty": {
+
+    "English": "Empty Syringe"
+  },
+
+  "GAMEPLAY_SyringeEmptyDescription": {
+
+    "English": "An empty hypodermic syringe."
+  },
+
+  "GAMEPLAY_SyringeFull": {
+
+    "English": "Syringe"
+  },
+
+  "GAMEPLAY_SyringeFullDescription": {
+
+    "English": "A hypodermic syringe with a single dose of Morphine Sulfate. For emergency use only. Avoid alcohol."
+  },
+
+  "GAMEPLAY_SyringeFullAction": {
+    
+    "English": "Inject"
+  },
+
+  "GAMEPLAY_TorphineVial": {
+
+    "English": "Morphine Vial"
+  },
+
+  "GAMEPLAY_TorphineVialDescription": {
+
+    "English": "A vial of Morphine Sulfate for IV use. Can fill three syringes. (5mg/ml - 10ml)"
+  }
+
+}

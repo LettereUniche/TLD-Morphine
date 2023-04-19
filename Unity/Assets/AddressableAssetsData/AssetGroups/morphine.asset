@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: morphine
+  m_EditorClassIdentifier: 
+  m_GroupName: morphine
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 1a772dbc2926b654d813e00648779a2e
+  m_SerializeEntries:
+  - m_GUID: 7ed14ef8661c41f4496da8b7fce0bee2
+    m_Address: GEAR_SyringeEmpty
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 300057eeaeadd2b498423ebd76b66868
+    m_Address: GEAR_SyringeFull
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6962036bd36346c4db96433d78346195
+    m_Address: GEAR_TorphineVial
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 37a7455b41ec62e458c4e208b0992b6f
+    m_Address: ico_GearItem__SyringeEmpty
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b4aa0c45090522a41b88aff76f3dd8b3
+    m_Address: ico_GearItem__SyringeFull
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b49d6140b6366e54a838527790c74bac
+    m_Address: Ico_Gearitem__TorphineVial
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 50e7e79aa5a5ef64bbde769e8385c0a3, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ca1a011e0cf3bc848bfb8d672312a2fd, type: 2}
+    - {fileID: 11400000, guid: a5e0b111df6e6c749ae31fa9c06e5ea7, type: 2}
