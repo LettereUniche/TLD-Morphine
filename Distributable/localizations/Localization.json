@@ -1,37 +1,44 @@
 {
   "GAMEPLAY_SyringeEmpty": {
 
-    "English": "Empty Syringe"
+    "English": "Empty Syringe",
+    "Japanese": "空の注射器"
   },
 
   "GAMEPLAY_SyringeEmptyDescription": {
 
-    "English": "An empty hypodermic syringe."
+    "English": "An empty hypodermic syringe.",
+    "Japanese": "空の皮下注射器。"
   },
 
   "GAMEPLAY_SyringeFull": {
 
-    "English": "Syringe"
+    "English": "Syringe",
+    "Japanese": "注射器"
   },
 
   "GAMEPLAY_SyringeFullDescription": {
 
-    "English": "A hypodermic syringe with a single dose of Morphine Sulfate. For emergency use only. Avoid alcohol."
+    "English": "A hypodermic syringe with a single dose of Morphine Sulfate. For emergency use only. Avoid alcohol.",
+    "Japanese": "1回分のモルヒネが入った皮下注射器。使用は緊急時に限定し、飲酒は避けること。"
   },
 
   "GAMEPLAY_SyringeFullAction": {
     
-    "English": "Inject"
+    "English": "Inject",
+    "Japanese": "注射する"
   },
 
   "GAMEPLAY_TorphineVial": {
 
-    "English": "Morphine Vial"
+    "English": "Morphine Vial",
+    "Japanese": "モルヒネのバイアル"
   },
 
   "GAMEPLAY_TorphineVialDescription": {
 
-    "English": "A vial of Morphine Sulfate for IV use. Can fill three syringes. (5mg/ml - 10ml)"
+    "English": "A vial of Morphine Sulfate for IV use. Can fill three syringes. (5mg/ml - 10ml)",
+    "Japanese": "静脈注射用モルヒネのバイアル瓶。注射器を3本まで満たすことができる（5mg/ml - 10ml）。"
   }
 
 }
