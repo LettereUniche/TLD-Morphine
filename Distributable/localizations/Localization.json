@@ -2,43 +2,71 @@
   "GAMEPLAY_SyringeEmpty": {
 
     "English": "Empty Syringe",
-    "Japanese": "空の注射器"
+    "French (France)": "Seringue vide",
+    "German": "Leere Spritze",
+    "Japanese": "空の注射器",
+    "Russian": "Пустой шприц",
+    "Spanish (Spain)": "Jeringa vacía"
   },
 
   "GAMEPLAY_SyringeEmptyDescription": {
 
     "English": "An empty hypodermic syringe.",
-    "Japanese": "空の皮下注射器。"
+    "French (France)": "Une seringue hypodermique vide.",
+    "German": "Eine leere Injektionsspritze.",
+    "Japanese": "空の皮下注射器。",
+    "Russian": "Пустой подкожный шприц.",
+    "Spanish (Spain)": "Una jeringa hipodérmica vacía."
   },
 
   "GAMEPLAY_SyringeFull": {
 
     "English": "Syringe",
-    "Japanese": "注射器"
+    "French (France)": "Seringue",
+    "German": "Spritze",
+    "Japanese": "注射器",
+    "Russian": "Шприц",
+    "Spanish (Spain)": "Jeringa"
   },
 
   "GAMEPLAY_SyringeFullDescription": {
 
     "English": "A hypodermic syringe with a single dose of Morphine Sulfate. For emergency use only. Avoid alcohol.",
-    "Japanese": "1回分のモルヒネが入った皮下注射器。使用は緊急時に限定し、飲酒は避けること。"
+    "French (France)": "Une seringue hypodermique contenant une dose unique de sulfate de morphine. A utiliser en cas d'urgence uniquement. Éviter l'alcool.",
+    "German": "Eine Injektionsspritze mit einer Einzeldosis Morphinsulfat. Nur für den Einsatz im Notfall. Alkohol meiden.",
+    "Japanese": "注射1回分の硫酸モルヒネが入った皮下注射器。緊急時のみ使用すること。飲酒時は避けること。",
+    "Russian": "Шприц для подкожных инъекций с разовой дозой сульфата морфина. Только для экстренного использования. Избегать алкоголя.",
+    "Spanish (Spain)": "Una jeringa hipodérmica con una dosis única de sulfato de morfina. Sólo para uso de emergencia. Evite el alcohol."
   },
 
   "GAMEPLAY_SyringeFullAction": {
     
     "English": "Inject",
-    "Japanese": "注射する"
+    "French (France)": "Injecter",
+    "German": "Einspritzen",
+    "Japanese": "注射する",
+    "Russian": "Инжект",
+    "Spanish (Spain)": "Inyectar"
   },
 
   "GAMEPLAY_TorphineVial": {
 
     "English": "Morphine Vial",
-    "Japanese": "モルヒネのバイアル"
+    "French (France)": "Morphine Flacon",
+    "German": "Morphin-Fläschchen",
+    "Japanese": "モルヒネのバイアル",
+    "Russian": "Морфин флакон",
+    "Spanish (Spain)": "Morfina Vial"
   },
 
   "GAMEPLAY_TorphineVialDescription": {
 
     "English": "A vial of Morphine Sulfate for IV use. Can fill three syringes. (5mg/ml - 10ml)",
-    "Japanese": "静脈注射用モルヒネのバイアル瓶。注射器を3本まで満たすことができる（5mg/ml - 10ml）。"
+    "French (France)": "Un flacon de sulfate de morphine pour utilisation IV. Peut remplir trois seringues. (5mg/ml - 10ml)",
+    "German": "Eine Fläschchen mit Morphinsulfat zur intravenösen Anwendung. Kann drei Spritzen füllen. (5mg/ml - 10ml)",
+    "Japanese": "静脈注射用硫酸モルヒネのバイアル瓶。注射器を3本まで満たすことができる。(5mg/ml - 10ml)",
+    "Russian": "Флакон морфина сульфата для внутривенного применения. Может заполнить три шприца. (5mg/ml - 10ml)",
+    "Spanish (Spain)": "Un vial de Sulfato de Morfina para uso IV. Puede llenar tres jeringas. (5mg/ml - 10ml)"
   }
 
 }
