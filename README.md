@@ -2,6 +2,9 @@
 
 ![20220402021046_1](https://user-images.githubusercontent.com/102776369/161359073-25bd7862-7567-4229-848c-7004e55fbeb4.jpg)
 
+# Update v1.2
+- Adjusted Alcohol effects.
+
 # Update v1.1
 - Updated for latest TLD version by Thekillergreece.
 - Morphine vials can be crafted.
@@ -14,7 +17,7 @@
 
 ## Where to find Morphine?
 Currently, `Morphine Vials` and `Syringes` can be found in the Blackrock infirmary. A total of 5 vials, 2 syringes, and 5 empty syringes will spawn. They may be also found in Medical Cargos.
-Morphine Vials can be "harvested" into 3 full syringes each.
+Morphine Vials can be "harvested" into 3 full syringes each. If you take one, absolutely make sure you will drink AND sleep.
 
 While Morphine Vials and Syringes are intended to be very rare items, Morphine Vials can be crafted with a lot of medical materials as requirements.
 
@@ -29,12 +32,12 @@ Alternatively, the items can be added using the [DeveloperConsole](https://githu
 ## Installation
 * Download and install [MelonLoader.Installer.exe](https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe)
 * Install [ModComponent](https://github.com/ds5678/ModComponent) and its dependencies
-* ~~Install [AlcoholMod](https://github.com/ds5678/AlcoholMod)~~
+* Install [AlcoholMod](https://github.com/No3371/AlcoholMod)
 * Move `TLD_Morphine.modcomponent` to your /Mods folder
 
 ## Required Mods
 * [ModComponent](https://github.com/ds5678/ModComponent)
-* ~~[AlcoholMod](https://github.com/ds5678/AlcoholMod)~~ (Not updated)
+* [AlcoholMod](https://github.com/No3371/AlcoholMod)
 
 ## Reccomended Mods
 * [Placing Anywhere](https://github.com/Xpazeman/tld-placing-anywhere)
