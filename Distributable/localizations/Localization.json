@@ -56,17 +56,17 @@
     "German": "Morphin-Fläschchen",
     "Japanese": "モルヒネのバイアル",
     "Russian": "Морфин флакон",
-    "Spanish (Spain)": "Morfina Vial"
+    "Spanish (Spain)": "Frasco de morfina"
   },
 
   "GAMEPLAY_TorphineVialDescription": {
 
     "English": "A vial of Morphine Sulfate for IV use. Can fill three syringes. (5mg/ml - 10ml)",
     "French (France)": "Un flacon de sulfate de morphine pour utilisation IV. Peut remplir trois seringues. (5mg/ml - 10ml)",
-    "German": "Eine Fläschchen mit Morphinsulfat zur intravenösen Anwendung. Kann drei Spritzen füllen. (5mg/ml - 10ml)",
+    "German": "Eine Durchstechflasche mit Morphinsulfat zur Verwendung mit IV. Kann drei Spritzen füllen. (5mg/ml - 10ml)",
     "Japanese": "静脈注射用硫酸モルヒネのバイアル瓶。注射器を3本まで満たすことができる。(5mg/ml - 10ml)",
     "Russian": "Флакон морфина сульфата для внутривенного применения. Может заполнить три шприца. (5mg/ml - 10ml)",
-    "Spanish (Spain)": "Un vial de Sulfato de Morfina para uso IV. Puede llenar tres jeringas. (5mg/ml - 10ml)"
+    "Spanish (Spain)": "Un vial de Sulfato de Morfina para uso IV. Puede llenar tres jeringuillas. (5mg/ml - 10ml)"
   }
 
 }
