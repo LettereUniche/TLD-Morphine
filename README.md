@@ -4,6 +4,7 @@
 
 # Update v1.2
 - Adjusted Alcohol effects.
+- Rebalanced effects duration.
 
 # Update v1.1
 - Updated for latest TLD version by Thekillergreece.
